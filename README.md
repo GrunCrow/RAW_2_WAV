@@ -6,7 +6,7 @@ Please, if used, cite as:
 
 ````bibtex
 @software{Marquez_Rodriguez_RAW2WAV_2025,
-  author       = {Alba Márquez Rodríguez},
+  author       = {Alba Márquez-Rodríguez},
   title        = {RAW 2 WAV},
   year         = {2025},
   version      = {1.0},
